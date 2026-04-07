@@ -32,7 +32,12 @@ Logs employee IN/OUT time
 Sends data to Linux system
 
 📷 Hardware Setup
-(Add your images here)
+hardware image
+software implementation
+
+//document-paper//
+
+ARM Microcontroller.pdf
 
 🚀 Future Improvements
 IoT integration
